@@ -1,10 +1,10 @@
 
 export subscriptionId="c5365ae4-76ab-4929-907e-49d8456be106";
-export resourceGroup="rg-onprem";
-export tenantId="11aba5ff-ac44-46ec-a934-2405152e9fc5";
+export resourceGroup="rg-wkl-dev-us_eastus-001";
+export tenantId="e1a9f3b1-ad37-47e3-a4cb-8ab0c2d13f17";
 export location="eastus";
 export authType="token";
-export correlationId="6443440e-0e4b-45c3-b730-afccd48d2e03";
+export correlationId="012fa435-feb4-41a5-9c4f-208afa649fd4";
 export cloud="AzureCloud";
 
 
