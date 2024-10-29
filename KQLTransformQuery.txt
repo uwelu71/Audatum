@@ -1,0 +1,1 @@
+source | project d = split(RawData,",") | project TimeGenerated=todatetime(d[0]), User=tostring(d[1]), Action=tostring(d[2]), ip_address=tostring(d[3]), destination_ip=tostring(d[4])
