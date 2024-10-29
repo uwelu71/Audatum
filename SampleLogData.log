@@ -1,4 +1,4 @@
-TimeGenerated,User,Activity,ip_Address,Destination_ip
+TimeGenerated,RAWdata
 2024-10-28 15:25:54Z,user1@contoso.com,Email Sent,192.168.1.1,10.0.0.5
 2024-10-28 15:26:54Z,user4@contoso.com,File Download,192.168.1.2,10.0.0.3
 2024-10-28 15:27:54Z,user2@contoso.com,File Download,192.168.1.3,10.0.0.2
