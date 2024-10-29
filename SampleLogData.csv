@@ -1,0 +1,51 @@
+TimeGenerated,User,Activity,ip-Address,Destination_ip
+28.10.2024 15:25,user1@contoso.com,Email Sent,192.168.1.1,10.0.0.5
+28.10.2024 15:26,user4@contoso.com,File Download,192.168.1.2,10.0.0.3
+2024-10-28 15:27:54Z,user2@contoso.com,File Download,192.168.1.3,10.0.0.2
+2024-10-28 15:28:54Z,user2@contoso.com,File Upload,192.168.1.5,10.0.0.2
+2024-10-28 15:29:54Z,user3@contoso.com,Logout,192.168.1.3,10.0.0.4
+2024-10-28 15:30:54Z,user4@contoso.com,File Download,192.168.1.2,10.0.0.1
+2024-10-28 15:31:54Z,user4@contoso.com,Email Received,192.168.1.4,10.0.0.4
+2024-10-28 15:32:54Z,user1@contoso.com,Email Received,192.168.1.3,10.0.0.3
+2024-10-28 15:33:54Z,user2@contoso.com,File Download,192.168.1.2,10.0.0.3
+2024-10-28 15:34:54Z,user2@contoso.com,File Download,192.168.1.4,10.0.0.4
+2024-10-28 15:35:54Z,user3@contoso.com,File Download,192.168.1.4,10.0.0.2
+2024-10-28 15:36:54Z,user4@contoso.com,Login,192.168.1.3,10.0.0.1
+2024-10-28 15:37:54Z,user4@contoso.com,Logout,192.168.1.2,10.0.0.4
+2024-10-28 15:38:54Z,user2@contoso.com,Login,192.168.1.1,10.0.0.2
+2024-10-28 15:39:54Z,user1@contoso.com,File Upload,192.168.1.3,10.0.0.5
+2024-10-28 15:40:54Z,user2@contoso.com,Logout,192.168.1.2,10.0.0.3
+2024-10-28 15:41:54Z,user2@contoso.com,Email Received,192.168.1.5,10.0.0.3
+2024-10-28 15:42:54Z,user1@contoso.com,File Upload,192.168.1.3,10.0.0.2
+2024-10-28 15:43:54Z,user5@contoso.com,Email Received,192.168.1.4,10.0.0.5
+2024-10-28 15:44:54Z,user1@contoso.com,Email Received,192.168.1.2,10.0.0.1
+2024-10-28 15:45:54Z,user2@contoso.com,Email Sent,192.168.1.5,10.0.0.5
+2024-10-28 15:46:54Z,user5@contoso.com,Email Received,192.168.1.1,10.0.0.1
+2024-10-28 15:47:54Z,user5@contoso.com,Login,192.168.1.4,10.0.0.4
+2024-10-28 15:48:54Z,user5@contoso.com,Email Sent,192.168.1.3,10.0.0.5
+2024-10-28 15:49:54Z,user1@contoso.com,Logout,192.168.1.1,10.0.0.2
+2024-10-28 15:50:54Z,user1@contoso.com,Email Sent,192.168.1.4,10.0.0.4
+2024-10-28 15:51:54Z,user5@contoso.com,File Upload,192.168.1.4,10.0.0.5
+2024-10-28 15:52:54Z,user5@contoso.com,File Download,192.168.1.3,10.0.0.5
+2024-10-28 15:53:54Z,user5@contoso.com,Email Sent,192.168.1.5,10.0.0.4
+2024-10-28 15:54:54Z,user1@contoso.com,File Upload,192.168.1.2,10.0.0.1
+2024-10-28 15:55:54Z,user3@contoso.com,File Download,192.168.1.2,10.0.0.5
+2024-10-28 15:56:54Z,user2@contoso.com,Email Sent,192.168.1.2,10.0.0.5
+2024-10-28 15:57:54Z,user4@contoso.com,File Download,192.168.1.5,10.0.0.2
+2024-10-28 15:58:54Z,user1@contoso.com,Email Sent,192.168.1.5,10.0.0.3
+2024-10-28 15:59:54Z,user5@contoso.com,Logout,192.168.1.5,10.0.0.3
+2024-10-28 16:00:54Z,user2@contoso.com,File Upload,192.168.1.3,10.0.0.3
+2024-10-28 16:01:54Z,user1@contoso.com,Logout,192.168.1.5,10.0.0.5
+2024-10-28 16:02:54Z,user5@contoso.com,File Upload,192.168.1.1,10.0.0.5
+2024-10-28 16:03:54Z,user2@contoso.com,Login,192.168.1.4,10.0.0.5
+2024-10-28 16:04:54Z,user4@contoso.com,Email Received,192.168.1.1,10.0.0.5
+2024-10-28 16:05:54Z,user4@contoso.com,Logout,192.168.1.3,10.0.0.5
+2024-10-28 16:06:54Z,user2@contoso.com,File Upload,192.168.1.4,10.0.0.3
+2024-10-28 16:07:54Z,user3@contoso.com,Login,192.168.1.5,10.0.0.4
+2024-10-28 16:08:54Z,user4@contoso.com,File Upload,192.168.1.2,10.0.0.4
+2024-10-28 16:09:54Z,user3@contoso.com,File Download,192.168.1.3,10.0.0.5
+2024-10-28 16:10:54Z,user2@contoso.com,Email Sent,192.168.1.1,10.0.0.1
+2024-10-28 16:11:54Z,user1@contoso.com,Logout,192.168.1.2,10.0.0.1
+2024-10-28 16:12:54Z,user3@contoso.com,Email Received,192.168.1.2,10.0.0.5
+2024-10-28 16:13:54Z,user2@contoso.com,File Upload,192.168.1.5,10.0.0.4
+2024-10-28 16:14:54Z,user4@contoso.com,Email Sent,192.168.1.2,10.0.0.1
